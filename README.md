@@ -1,4 +1,4 @@
-# spider\
+# spider
 com.cwj.spider.Crawler 是一个爬虫对象\
 最少需要2个参数，一个是需要爬取的站点域名，和另一个是图片下载的存放目录。\
 在实例化Crawler对象后，可以调用start方法开始爬取图片。\
